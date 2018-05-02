@@ -1,0 +1,70 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "com.brodysoft.sqlitePlugin": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "cordova-plugin-crosswalk-webview": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "nl.x-services.plugins.socialsharing": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        },
+        "com.telerik.cordovaPlatformSpecificFiles": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.studywords.newword"
+        }
+    }
+}

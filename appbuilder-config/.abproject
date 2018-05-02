@@ -1,0 +1,64 @@
+{
+  "Framework": "Cordova",
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "6.4.0",
+  "ProjectName": "nw",
+  "ProjectGuid": "0a10cc19-e349-4106-93b0-ad1efcd8fcee",
+  "projectVersion": "1",
+  "AppIdentifier": "com.studywords.newword",
+  "DisplayName": "New Word",
+  "Author": "",
+  "Description": "New Word Game",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{3ba05afc-fbeb-43a7-b67b-6b0856fbe0ea}",
+  "WP8ProductID": "{aa0c944f-cbc2-4f93-acde-905d0dbbf371}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.nw",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ],
+  "iOSDeploymentTarget": "6.0",
+  "CorePlugins": [
+    "com.phonegap.plugins.sqlite@1.1.0",
+    "cordova-plugin-battery-status",
+    "cordova-plugin-console",
+    "cordova-plugin-crosswalk-webview@2.2.0",
+    "cordova-plugin-device",
+    "cordova-plugin-device-motion",
+    "cordova-plugin-device-orientation",
+    "cordova-plugin-dialogs",
+    "cordova-plugin-file",
+    "cordova-plugin-file-transfer",
+    "cordova-plugin-inappbrowser",
+    "cordova-plugin-network-information",
+    "cordova-plugin-splashscreen",
+    "cordova-plugin-statusbar",
+    "cordova-plugin-vibration",
+    "cordova-plugin-whitelist",
+    "nl.x-services.plugins.socialsharing@5.1.1"
+  ]
+}

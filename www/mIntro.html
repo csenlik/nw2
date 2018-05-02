@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+
+<html>
+    <head>
+        <title></title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="css/jquery.mobile-1.4.4.min.css" />
+        <link rel="stylesheet" href="css/cprogressbar.css">
+
+        <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+
+        <script type="text/javascript" src="js/jquery-ui-1.11.4.js"></script>
+        <script src="js/cprogressbar.js"></script>
+        <script type="text/javascript">varmobil = 1</script>
+        <script type="text/javascript" src="js/jquery.mobile-1.4.4.min.js"></script>
+        <script type="text/javascript" src="js/ana.js"></script>
+        <script type="text/javascript" src="js/mIntro.js"></script>
+        <script type="text/javascript" src="cordova.js"></script>
+        <style>
+            @font-face {
+                font-family: 'Wellfleet';
+                src: url('font/Wellfleet.ttf') format('truetype');
+            }
+            .clsbg {
+                background: url(img/girisbg.png) no-repeat top left;
+                -webkit-background-size: contain;
+                -moz-background-size: contain;
+                -o-background-size: contain;
+                background-size: contain;
+                margin: 0 !important;
+                padding: 0 !important;
+            }
+            .mid {
+                display: -webkit-flexbox;
+                display: -ms-flexbox;
+                display: -webkit-flex;
+                display: flex;
+                -webkit-flex-align: center;
+                -ms-flex-align: center;
+                -webkit-align-items: center;
+                align-items: center;
+                justify-content: center;
+            }
+            .action-button {
+                position: relative;
+                padding: 10px 40px;
+                margin: 0px 00px 10px 0px;
+                float: left;
+                border-radius: 10px;
+                font-size: 1.3em;
+                color: #FFF !important;
+                text-decoration: none;
+                -webkit-user-select: none;
+                -webkit-touch-callout: none;
+                width: 70px;
+                /*height:120px;*/
+            }
+
+            .red {
+                background-color: red;
+                border-bottom: 5px solid grey;
+                /*text-shadow: 0px -2px grey;*/
+                color: !important;
+            }
+
+            .white {
+                background-color: white;
+                border-bottom: 5px solid grey;
+                /*text-shadow: 0px -2px grey;*/
+                color: black !important;
+                font-weight: normal !important;
+            }
+            BODY {
+                margin: 0px;
+                padding: 0px;
+            }
+        </style>
+    </head>
+    <body>
+        <div data-role="page" id="pageintro" class="clsbg" style="position:relative">
+            <div id="divWholePage" style="display:none">
+                <div id="divPB" style="position:absolute">
+                    <div class="progress-bar" data-percent="" data-duration="1000"></div>
+                    <div id="divRek" class="mid" style="font-family:Wellfleet">Rekor</div>
+                </div>
+                <!--<div style="float:none"></div>-->
+                <div id="divBasla" style="position:absolute">
+                    <img src="img/baslabtn.png" id="hrfBas" width="200" />
+                </div>
+
+            </div>
+            <div style="position:absolute;" id="divFooter">
+                <img id="imgAnaIkon2" src="img/star3x.png" />              
+                <img id="imgAnaIkon4" src="img/paylas3x.png"/>
+                <img id="imgAnaIkon3" src="img/noad3x.png"   style="display:none"/>
+                <img id="imgAnaIkon1" src="img/kupa3x.png"  style="display:none" />
+            </div>
+        </div>
+</body>
+</html>

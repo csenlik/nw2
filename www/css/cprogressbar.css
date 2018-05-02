@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'Wellfleet';
+    src: url('font/Wellfleet.ttf') format('truetype');
+}
+
+.progress-bar {
+    position: relative;
+    height: 100px;
+    width: 100px;
+}
+
+    .progress-bar div {
+        position: absolute;
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+    }
+
+        .progress-bar div span {
+            position: absolute;
+            font-family: Wellfleet;
+            font-weight:bold;
+            font-size: 2.6em;
+            line-height: 88px;
+            height: 88px;
+            width: 88px;
+            left: 6px;
+            top: 6px;
+            text-align: center;
+            border-radius: 50%;
+            background-color: white;
+        }
+
+    .progress-bar .background {
+        background-color: #b3cef6;
+    }
+
+    .progress-bar .rotate {
+        clip: rect(0 50px 100px 0);
+        background-color: #4b86db;
+    }
+
+    .progress-bar .left {
+        clip: rect(0 50px 100px 0);
+        opacity: 1;
+        background-color: #b3cef6;
+    }
+
+    .progress-bar .right {
+        clip: rect(0 50px 100px 0);
+        transform: rotate(180deg);
+        opacity: 0;
+        background-color: #4b86db;
+    }
+
+@keyframes toggle {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}

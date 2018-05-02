@@ -1,0 +1,190 @@
+1#bezirgan#y!nden, dxv!lerek yapqlan kalqn ve kaba kumaw#4&
+2#abajur#genellikle !zeri siperli masa lambasq veya ayaklq lamba#1&
+3#abak!s#sayq boncu_u#2&
+4#abandone#dxv!wemeyecek duruma gelen(boksxr)#3&
+5#abanmak#bir weyin veya bir kimsenin !zerine -xk!p -ullanmak#3&
+6#abartq#m!bala_a#2&
+7#abartmak#bir weyi oldu_undan b!y!k veya -ok gxstererek anlatmak#2&
+8#abaw#gemiyi bawtan veya kq-tan halatla karaya ba_lama#6&
+9#abat#bayqndqr, mamur#4&
+10#abdal#eskiden bazq gezgin derviwlere verilen ad#3&
+11#abes#gereksiz, l!zumsuz, yersiz, bow#3&
+12#abqhayat#efsanelere gxre i-en kimseye xl!ms!zl!k sa_layan bir su#4&
+13#abide#anqt#4&
+14#abiye#bayanlarqn xzel gecelerde giydi_i wqk giysi veya tuvalet#2&
+15#ablak#yayvan ve dolgun y!z veya y!z! bxyle olan#3&
+16#abone#bir yere gitmeyi alqw kanlqk haline getirmek#3&
+17#abonman#bir satqcq veya kamu kuruluwu ile alqcqlar arasqnda yapqlan anlawma#4&
+18#abra#bir de_iw tokuwta !ste verilen wey#6&
+19#abs!rt#sa-ma#3&
+20#abuhava#iklim#5&
+21#abus#asqk suratlq, somurtkan#6&
+22#acem#iranlq#3&
+23#acemi#bir yerin, bir weyin yabancqsq#2&
+24#acil#ivedi#2&
+25#aciz#g!c! bir iwe yetmez olanqn durumu, g!-s!z#3&
+26#acun#d!nya#4&
+27#a-q#birbirini kesen iki y!zeyin veya iki do_runun oluwturdu_u -qkqntq#3&
+28#a-q_aalmak#gxrevine son vermek#4&
+29#cxmert#a-qk elli#2&
+30#a-qksxzl!#herweyi oldu_u gibi sxyleyen, sxz!n! esirgemeyen#2&
+31#a-qkvermek#geliri, gideri karwqlamamak#3&
+32#a-qkgxz#uyanqk davranarak -qkarqnq sa_layan, imkanlardan kurnazca yararlanmasqnq bilen#3&
+33#a-maz#i-inden zor -qkqlqr durum#3&
+34#adale#kas#1&
+35#adalet#herkese kendine uygun d!weni, kendi hakkq olanq verme#2&
+36#adap#yol yordam, yol yxntem#3&
+37#adaptasyon#uyarlama#3&
+38#adaw#adlarq aynq olanlardan her biri#1&
+39#aday#namzet#4&
+40#adem#yokluk, hi-lik, xl!m#5&
+41#adql#zamir#2&
+42#adilik#baya_qlqk, d!w!kl!k, awa_qlqk#4&
+43#adliye#hukuk ve adalet iwlerinin gxr!ld!_! resmi yapq #2&
+44#afacan#zeki ve yaramaz (-ocuk)#3&
+45#afaki#nesnel, objektif#4&
+46#afallamak#wawkqnlqktan sersemlewmek#3&
+47#afet#g!zelli_i ile insanq wawkqna -eviren, aklqnq bawqndan alan kadqn#4&
+48#afili#gxsteriwli, -alqmlq#4&
+49#afife#namuslu, iffetli, saygq de_er (kadqn)#5&
+50#afiw#bir weyi duyurmak, tanqtmak i-in hazqrlanan, -o_u resimli duvar ilanq#1&
+51#afiwe#a-q_a -qkmqw ,duyulmuw #3&
+52#afiyet#sa_lqk, esenlik#4&
+53#aforizm#xzl! sxz, xzdeyiw #5&
+54#aforoz#hristiyanlqkta kilise tarafqndan verilen "cemaatten kovma" cezasq#2&
+55#agora#eski yunanda halk meydanq#3&
+56#a_arma#tan atma, wafak sxkme#3&
+57#a_ql#koyun ve ke-i s!r!lerinin geceledi_i, -it veya duvarla -evrili yer#1&
+58#a_qruyku#uyanqlmasq g!-, derin uyku#2&
+59#a_qrbawlq#davranqwlarq xl-!l!, olgun, vakur#2&
+60#a_qrsamak#birine karwq so_uk davranarak sqkqntq verdi_ini anlatmak#5&
+61#a_qz#yeni do_urmuw memelilerin ilk s!t!#4&
+62#a_qztadq#dirlik d!zenlik, iyi ge-inme veya rahatlqk#3&
+63#a_raz#kxt! niyet ve d!wmanlqklar#4&
+64#a_ustos#yqlqn 31 g!n s!ren sekizinci ayq#1&
+65#a_yar#bawkalarq, yabancqlar, eller#4&
+66#a_zqa-qk#wawkqn, alqk, bxn#4&
+67#k!f!rbaz#a_zq bozuk#1&
+68#a_zqyanmak#bir weyden b!y!k zarar gxrmek#3&
+69#ahbap#kendisiyle yakqn iliwki kurulup sevilen, sayqlan kimse#2&
+70#ahdetmek#bir weyi yapmak i-in kendi kendine sxz vermek#4&
+71#ahenk#uyum#2&
+72#aheste#yavaw , a_qr#2&
+73#ahi#cxmert, eli a-qk#6&
+74#ahir#son, sonraki#4&
+75#ahit#antlawma#4&
+76#ahkam#yargqlar, h!k!mler#4&
+77#ahmak#budala, aptal#3&
+78#ahraz#dilsiz, sa_qr ve dilsiz#5&
+79#ahwap#a_a-tan yapqlmqw #1&
+80#ahu#ceylan, karaca#4&
+81#ahval#durumlar, vaziyetler#4&
+82#ajur#delikli xrg!, gxzenek#6&
+83#akabe#tehlikeli, sarp ve zor ge-it#5&
+84#akamet#bawarqsqzlqk, sonu-suzluk#6&
+85#ak-a#beyazca#3&
+86#ak-e#k!-!k g!m!w para#3&
+87#akemi#?ki elemanlq mermer yapqwtqrqcqsq#5&
+88#akqbet#sonu-#2&
+89#akql#us#2&
+90#akqllq#ger-e_i iyi gxren ve ona gxre davranan#2&
+91#akqm#cereyan#2&
+92#akqn#kalabalqk bir weyin arkasq kesilmeyen bir geliw durumunda olmasq#3&
+93#akide#inan-#3&
+94#akis#yansqma, yankq #2&
+95#akit#sxzlewme, kontrat#4&
+96#aklq-qkmak#-ok korkmak#3&
+97#aklqselim#sa_duyu#2&
+98#akort#bir -algqyq do_ru ses vermesi i-in ayarlama#1&
+99#akraba#hqsqm#1&
+100#akran#yawqt#1&
+101#akreditif#kredi mektubu#4&
+102#akrep#saatin iki ibresinden k!-!_!#1&
+103#akrobat#cambaz#1&
+104#akropol#eski yunan wehirlerinde, en xnemli yapq larqn ve tapqnaklarqn bulundu_u i- kale#4&
+105#aks#dingil#2&
+106#aksak#iyi gitmeyen, iyi iwlemeyen#3&
+107#aksam#kqsqmlar#3&
+108#aksan#bir !lkenin insanlarqna veya bir -evreye xzg! sxyleyiw xzelli_i#1&
+109#akse#hastalqk nxbeti, kriz#5&
+110#aksi#inat-q , hqr-qn, huysuz#1&
+111#akwam#g!nd!z!n son ve gecenin ilk saatleri#1&
+112#aktar#baharat, ev ila-larq, gere-leri satan kimse veya d!kkan#1&
+113#aktif#etkin#1&
+114#aktxr#erkek oyuncu#1&
+115#aktris#kadqn oyuncu#1&
+116#akt!alite#g!n!n olayq veya konusu#3&
+117#akt!el#g!ncel#3&
+118#akustik#yankq bilimi#4&
+119#akut#ilerlemiw, widdetli, acil (hastalqk).#4&
+120#akva#kuvvetli, sa_lam#6&
+121#akvarel#sulu boya resim#6&
+122#akyuvar#lxkosit#4&
+123#ala#karqwqk renkli#3&
+124#alabora#geminin devrilecek kadar yan yatmasq#3&
+125#alabros#fqr-a gibi dik kesilmiw (erkek sa-q)#6&
+126#alafranga#alaturka karwqtq#2&
+127#alagarson#kqsa kesilmiw sa-#6&
+128#alaka#ilgi#2&
+129#alakart#tabldot karwqtq#2&
+130#alarm#bir tehlike oldu_unda bunu herkesin haber almasq i-in verilen iwaret#1&
+131#alaturka#alafranga karwqtq #1&
+132#alaylq#Gerekli okul e_itimini gxrmeden kendini yetiwtirmiw olan#2&
+133#alaza#dxk!len tohumlarla ertesi yql kendili_inden -qkan tahql, so_an vb#6&
+134#aleksi#okuma g!-l!_!#5&
+135#alemdar#sancaktar#3&
+136#alenen#a-qk-a#2&
+137#aleyh#karwq, karwqt#2&
+138#alfa#yunan alfabesinin birinci harfi#3&
+139#alqn#y!z!n, kawlarla sa-lar arasqndaki bxl!m!#1&
+140#alqngan#awqrq duygulu, -abuk g!cenen#1&
+141#alqwmak#bir iwi tekrarlayarak kolaylqkla yapabilmek #1&
+142#alkqm#gxk kuwa_q#4&
+143#allegro#bir par-anqn canlq, neweli ve hqzlq -alqnaca_qnq anlatqr#4&
+144#alman#cermen soyundan olan halk ve bu halktan olan kimse. #4&
+145#alpinist#da_cq#6&
+146#alternatif#se-ilebilecek bir bawka yol, yxntem, se-enek#2&
+147#altimetre#y!kseklik xl-er#4&
+148#alto#kemanla viyolonsel arasq b!y!k keman, viyola#4&
+149#alyans#Niwan y!z!_!.#3&
+150#alyon#para babasq #5&
+151#alyuvar#eritrosit#4&
+152#amatxr#profesyonel karwqtq#1&
+153#ambargo#bir malqn serbest s!r!m!n! engellemek i-in konulan yasak#3&
+154#ameliyat#operasyon#3&
+155#ametist#s!stawq olarak kullanqlan mor renkte bir t!r kuvars#4&
+156#amfibi#Hem karada hem de suda hareket eden#2&
+157#amfizem#v!cut organlarqndan bir bxl!m!n!n hava ile wiwmesi#4&
+158#amiral#deniz kuvvetlerinde, ordudaki general r!tbesine ewit r!tbedeki subay#2&
+159#amiyane#baya_q#3&
+160#amme#halkqn b!t!n!, kamu.#4&
+161#amorti#piyangoda xdenen para kadar xdenen karwqlqk#1&
+162#amper#elektrik akqmqnda widdet birimi#1&
+163#ampirik#bir kurama de_il de yalnqzca deneye, gxzleme dayanan#4&
+164#amut#dik durumda#3&
+165#owinografi#ana deniz bilimi#4&
+166#anabolizma#xz!mleme#6&
+167#anagram#bir kelimedeki harflerin yerini de_iwtirerek elde edilen kelime#5&
+168#anakronik#-a_q ge-miw, eskimiw#6&
+169#analiz#tahlil#3&
+170#analjezi#a_rqyq dindirme#4&
+171#analoji#benzewim, benzewme#6&
+172#sermaye#kapital#1&
+173#anarwi#kargawa, bawqbowluk#3&
+174#anartri#dil tutuklu_u#6&
+175#anatomi#beden yapqsq, gxvde yapqsq#2&
+176#anda-#ajanda#3&
+177#andante#yarq yavaw,adagio ile andantino arasq#4&
+178#andaval#ahmak, aptal#4&
+179#andropoz#erkeklerde yawdxn!m!#2&
+180#anekdot#kqsa veya xzl! anlatqmq olan g!ld!r!c! hikaye#3&
+181#anemi#kansqzlqk#3&
+182#anestezi#uyuwturucu bir ila-la v!cudun b!t!n!nde veya belirli bir bxlgesinde duyularqn yok olmasq#2&
+183#angaje#sxzle veya yazqlq olarak ba_lanan#4&
+184#angajman#!stlenme, taahh!t#4&
+185#anglikan#ingiliz kilisesine ba_lq olan #4&
+186#hatqra#anq#1&
+187#anqz#ekin bi-ildikten sonra tarlada kalan kxkl! sap#5&
+188#animasyon#canlandqrma#2&
+189#anka#masallarda adq ge-en ve ger-ekte var olmayan b!y!k bir kuw#4&
+190#ankastre#bir oyu_a, yuvaya yerlewtirilmiw(tesisat)#2&

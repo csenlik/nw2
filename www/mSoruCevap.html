@@ -1,0 +1,341 @@
+﻿<!--a_mavi : #00A2E8
+a_yesil : #8AE037
+a_sari : #FFC90E
+a_kirmizi : #FF2C2B-->
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="css/jquery.mobile-1.4.4.min.css" />
+    <link rel="stylesheet" href="css/cprogressbar.css">
+    <link rel="stylesheet" href="css/sorucevap.css" />
+
+    <script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery.mobile-1.4.4.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui-1.11.4.js"></script>
+    <script src="js/cprogressbar.js"></script>
+    <script type="text/javascript">varmobil = 1</script>
+    <script type="text/javascript" src="js/ana.js"></script>
+    <script type="text/javascript" src="js/mSoruCevap.js"></script>
+    <style>
+        @font-face {
+            font-family: 'Wellfleet';
+            src: url('font/Wellfleet.ttf') format('truetype');
+        }
+        /*.spnlevel {
+            margin: 0px 0px 0px 0px;
+            display: inline-block;
+            height: 10px;
+            padding-left: 0px;
+            padding-right: 0px;
+            width: 15px;
+            border: thin;
+            border-color: white;
+            margin-right: -4px;
+            border: 2px solid #FFF;
+        }
+
+        .mavi {
+            background-color: #C3D4F9;
+        }*/
+
+        .spnlevel {
+            /*background-color: yellow;*/
+            /*width: 10px;*/
+            margin: 0px 0px 0px 0px;
+            display: inline-block;
+            height: 10px;
+            /*border-radius:20%;*/
+            padding-left: 0px;
+            padding-right: 0px;
+            border: thin;
+            border-color: white;
+            margin-right: -4px;
+            border: 2px solid #FFF;
+            border-left: 1px solid #FFF;
+            border-right: 1px solid #FFF;
+            background-color: #C3D4F9;
+        }
+
+        /*.kahve {
+            background-color: #D27216;
+        }*/
+
+        .ilk {
+            border-bottom-left-radius: 40%;
+            border-top-left-radius: 40%;
+        }
+
+        .spnlevel2 {
+            /*background-color: yellow;*/
+            /*width: 10px;*/
+            margin: 0px 0px 0px 0px;
+            display: inline-block;
+            height: 6px;
+            /*border-radius:20%;*/
+            padding-left: 0px;
+            padding-right: 0px;
+            width: 15px;
+            border: thin;
+            border-color: white;
+            margin-right: -4px;
+        }
+
+        .son {
+            border-bottom-right-radius: 40%;
+            border-top-right-radius: 40%;
+        }
+
+        .mid {
+            display: -webkit-flexbox;
+            display: -ms-flexbox;
+            display: -webkit-flex;
+            display: flex;
+            -webkit-flex-align: center;
+            -ms-flex-align: center;
+            -webkit-align-items: center;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .but {
+            display: -webkit-flexbox;
+            display: -ms-flexbox;
+            display: -webkit-flex;
+            display: flex;
+            -webkit-flex-align: center;
+            -ms-flex-align: center;
+            -webkit-align-items: center;
+            align-items: flex-end;
+            justify-content: center;
+        }
+        .sonuc {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%,-50%);
+            z-index: 1;
+            color: darkblue;
+            font-size: 1.2em;
+            opacity:1;
+        }
+
+        .im {
+            background: url(img/petek.png) no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+        .imdiv {
+            background-image: url(img/petek.png);
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+            font-family:'Wellfleet';
+             
+        }
+        .darkekran {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            background: rgba(0,0,0,0.6);
+            opacity: 1;
+            transition: all 0.5s;
+            -webkit-transition: all 0.5s;
+            -moz-transition: all 0.5s;
+        }
+        .clsbg {
+            background: url(img/sorucevapbg.png) no-repeat top left;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+        body {
+            font-family: Wellfleet;
+        }
+        .ikon {
+            width: 15px;
+            height: 15px;
+            background-color: white;
+            position: absolute;
+            left: 60%;
+            color: black;
+            border-radius: 50%;
+            top: 50%;
+            font-size: 0.8em;
+        }
+        .ipucusayi {
+            width: 60px;
+            font-size: 0.70em;
+        }
+    </style>
+</head>
+<body>
+    <div data-role="page" id="pagesorucevap" class="clsbg">
+        <audio class="levelup" preload="auto" style="display: none">
+            <source src="sound\P5levelup.mp3" type="audio/mpeg" />
+        </audio>
+        <audio class="wrongbest" preload="auto" style="display: none">
+            <source src="sound\wrongbest.mp3" type="audio/mpeg" />
+        </audio>
+        <audio class="gamestart" preload="auto" style="display: none">
+            <source src="sound\P5GameStart.mp3" type="audio/mpeg" />
+        </audio>
+        <audio class="correctefekt0bd" preload="auto" style="display: none">
+            <source src="sound\buttonbest.mp3" type="audio/mpeg" />
+        </audio>
+        <audio class="correctefekt1bd" preload="auto" style="display: none">
+            <source src="sound\buttonbest.mp3" type="audio/mpeg" />
+        </audio>
+        <audio class="correctefekt2bd" preload="auto" style="display: none">
+            <source src="sound\buttonbest.mp3" type="audio/mpeg" />
+        </audio>
+        <audio class="correctefekt3bd" preload="auto" style="display: none">
+            <source src="sound\buttonbest.mp3" type="audio/mpeg" />
+        </audio>
+        <audio class="countdown" preload="auto" style="display: none">
+            <source src="sound\countdown.mp3" type="audio/mpeg" />
+        </audio>
+        <div id="divwholepage" style="display:none">
+            <div id="divLevelParent" style="padding-top:10px;" class="mid">
+                <div style="position:relative">
+                    <div>
+                        <img id="imgOwl" src="img/owl2x.png" style="position:absolute"/>
+                    </div>
+                </div>
+                <div id="divLevel" style="position:absolute">
+                </div>
+            </div>
+            <div id="divCanSure" style="font-size:1.2em;">
+                <div id="divKalanCan" style="display:inline-block;padding-left:20px"></div>
+                <img id="imgHeart" src="img/heart3x.png" width="25" />
+                <div id="timer" style="display:inline-block;padding-right:20px;float:right"></div>
+            </div>
+            <div id="divCevap"  style="text-align:center">
+            </div>
+            <div id="divHa" class="imdiv" style="padding-top:40px">
+                <div id="divSoru" style="margin-left:30px;margin-right:25px;background-color:white">
+                    <div id="spnSoru" style="width:100%;font-size:1.1em;text-align:center" ></div>
+                </div>
+                <div id="divHarfler" class="container">
+                    <div class="clear">
+                        <div class="main">
+                            <div class="insert" name="9" id="insert9">
+                                <div class="img9"></div>
+                            </div>
+                        </div>
+                        <div class="main">
+                            <div class="insert" name="7">
+                                <div class="img7"></div>
+                            </div>
+                        </div>
+                        <div class="main">
+                            <div class="insert" name="2">
+                                <div class="img2"></div>
+                            </div>
+                        </div>
+                        <div class="main">
+                            <div class="insert" name="8" id="insert8">
+                                <div class="img8"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clear margin-left2">
+                        <div class="main">
+                            <div class="insert" name="6">
+                                <div class="img6"></div>
+                            </div>
+                        </div>
+                        <div class="main">
+                            <div class="insert" name="1">
+                                <div class="img1"></div>
+                            </div>
+                        </div>
+                        <div class="main">
+                            <div class="insert" name="3">
+                                <div class="img3"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clear margin-top">
+                        <div class="main">
+                            <div class="insert" name="10" id="insert10">
+                                <div class="img10"></div>
+                            </div>
+                        </div>
+                        <div class="main">
+                            <div class="insert" name="5">
+                                <div class="img5"></div>
+                            </div>
+                        </div>
+                        <div class="main">
+                            <div class="insert" name="4">
+                                <div class="img4"></div>
+                            </div>
+                        </div>
+                        <div class="main">
+                            <div class="insert" name="11" id="insert11">
+                                <div class="img11"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="divIpucu"  style="font-size:0.7em;text-align:center">
+                <div style="display:inline-block;position:relative" id="divIpucuHarfAl">
+                    <div class="mid ikon" id="divIpucuHarfAlSayi">
+
+                    </div>
+                    <img class="imgClass" id="imgAnaIkon1" src="img/letter3x.png" width="40" />
+                    <div class="ipucusayi" id="infharfal">
+                        harfi al
+                    </div>
+                </div>
+                <div style="display:inline-block;position:relative" id="divIlkHarfAl">
+                    <div class="mid ikon" id="divIlkHarfAlSayi">
+
+                    </div>
+                    <img class="imgClass" id="imgAnaIkon2" src="img/firstletter3x.png" width="40" />
+                    <div class="ipucusayi" id="infilkharfal">
+                        ilk harfi al
+                    </div>
+                </div>
+                <div style="display:inline-block;position:relative" id="divFazlaliklariAt">
+                    <div class="mid ikon" id="divFazlaliklariAtSayi">
+
+                    </div>
+                    <img class="imgClass" id="imgAnaIkon3" src="img/trash3x.png" width="40" />
+                    <div class="ipucusayi" id="inffazlalariat">
+                        fazlaları at
+                    </div>
+                </div>
+                <div style="display:inline-block;position:relative" id="divSureAl">
+                    <div class="mid ikon" id="divSureAlSayi">
+
+                    </div>
+                    <img class="imgClass" id="imgAnaIkon4" src="img/clock3x.png" width="40" />
+                    <div class="ipucusayi" id="infsureal">
+                        süre al
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="afterdivwholepage" class="darkekran" style="display:none">
+            <img id="imgYeniKelime" src="img/bravobg.png" style="width:100%" />
+            <div class="mid" id="divimgYeniKelime">
+                <img id="imgYeniKelimeButon" src="img/yenikelimebtn.png" />
+            </div>
+        </div>
+    </div>
+</body>
+</html>

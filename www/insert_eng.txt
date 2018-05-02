@@ -1,0 +1,88 @@
+1#say#tell, speak#1&
+2#year#twelve months#1&
+3#see#to notice someone or something using your eyes#2&
+4#small#opposite of big#2&
+5#world#earth#2&
+6#parent#mother or father#2&
+7#paper#we write on it#2&
+8#subject#what is the **** of first lesson? Math or English?#3&
+9#sticky#Good mums have ***** floor, dirty ovens and happy kids.#4&
+10#wednesday#the day after tuesday and before thursday#2&
+11#love#romeo and juliet#2&
+12#scissors#stone,paper,scissors#3&
+13#butterfly#a flying insect with colorful wings#4&
+14#apparantly#as far as one knows or can see#5&
+15#distance#the length of the space between two points#4&
+16#independent#free from outside control#5&
+17#frequently#often#3&
+18#say#tell#1&
+19#all#the whole of something#2&
+20#time#the quantity that you measure using a clock#2&
+21#year#a period of 365 days#1&
+22#first#never done before#2&
+23#also#additional, extra#3&
+24#day#a apple a ***** keeps doctor away#2&
+25#back#in the direction that is behind you#2&
+26#down#from a higher place to the ground#3&
+27#after#at a later time#2&
+28#world#the planet that we live on#1&
+29#over#game *****#3&
+30#need#necessary#2&
+31#never#at no time in the past or in the future#4&
+32#between#in the period after one time and before the next#4&
+33#high#large in amount#5&
+34#most#the largest part of something#5&
+35#old#someone is not as young as other people#3&
+36#student#someone who goes to a university, college, or school#2&
+37#same#exactly like another person, thing#1&
+38#big#opposite of small#1&
+39#begin#start#1&
+40#help#assist#3&
+41#talk#speak#2&
+42#start#begin#1&
+43#place#location#5&
+44#case#an example or instance of something#5&
+45#week#Monday, Tuesday, Wednesday, Thursday, Friday, Saturday,Sunday #2&
+46#company#people you are with#5&
+47#right#not left#1&
+48#question#inquiry, query#5&
+49#during#through the whole of a period of time#4&
+50#play#***** game#2&
+51#small#opposite of big#1&
+52#always#all the time#3&
+53#night#the time when most people are sleeping#2&
+54#happen#to take place, usually without being planned#4&
+55#next#the first place that you come to when you continue moving#3&
+56#before#earlier than something#2&
+57#home#house#1&
+58#under#covered by something#3&
+59#room#a part of a building with a floor, walls, and a ceiling#3&
+60#write#to put words on paper or some other surface#2&
+61#mother#mom#1&
+62#money#the coins and pieces of paper that you can use to pay for things#3&
+63#story#an account of something that happened (imaginary, traditional, or true)#4&
+64#young#youth,  junior#2&
+65#month#one of the 12 periods that a year is divided into#2&
+66#different#various#4&
+67#book#a set of printed pages fastened together inside a cover#3&
+68#eye#one of the two body parts in your face that you use for seeing#2&
+69#job#responsibility, obligation#4&
+70#far#a long distance#3&
+71#black#darkest colour#2&
+72#long#opposite of short#1&
+73#both#the twins **** have black hair#3&
+74#little#opposite of big, large#2&
+75#around#the earth goes **** the sun#3&
+76#friend#buddy#2&
+77#important#opposite of unimportant#1&
+78#father#dad#1&
+79#sit#opposite of stand#1&
+80#until#happening or done up to a particular point in time, and then stopping#5&
+81#power#opposite of weakness#3&
+82#hour#a period of time that consists of 60 minutes#1&
+83#end#the final part of a period of time#2&
+84#ever#at any time in the past, present or future#4&
+85#stand#opposite of sit#1&
+86#bad#opposite of good#1&
+87#lose#to be unable to find someone or something#3&
+88#member#someone who belongs to a club, organization, or group#3&
